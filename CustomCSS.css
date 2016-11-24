@@ -68,3 +68,11 @@ default .navbar-brand {
 .navbar-default .btn-link {
     color: #fff;
 }
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #00639E;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #00639E;
+}
